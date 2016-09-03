@@ -9,8 +9,8 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
-*
-!wp-content/themes/twentysixteen/*
+wp-includes
+
 /.htaccess
 /license.txt
 /readme.html
